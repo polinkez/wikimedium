@@ -1,0 +1,16 @@
+body {
+  font-family: "PT Sans", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: grayscale;
+}
+h1,
+h2,
+h3,
+h4,
+p,
+blockquote,
+ol,
+ul {
+  width: 700px;
+  margin: 0 auto;
+}
